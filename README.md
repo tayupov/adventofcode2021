@@ -1,2 +1,2 @@
 # adventofcode2021
-My solution for 2021's "Advent Of Code" event.
+My solutions for 2021's "Advent Of Code" event.
